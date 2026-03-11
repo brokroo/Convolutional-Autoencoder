@@ -48,8 +48,8 @@ Train the autoencoder using the noisy images as input and the original clean ima
 ---
 
 ## PROGRAM
-### Name: DHARSHINI S N 
-### Register Number: 212224230062
+### Name: SANJITH R 
+### Register Number: 212223230191
 ```PYTHON
 class DenoisingAutoencoder(nn.Module):
     def __init__(self):
@@ -156,7 +156,7 @@ visualize_denoising(model, test_loader)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-<img width="396" height="113" alt="image" src="https://github.com/user-attachments/assets/93426c06-4ac1-40b1-b6f3-9e7c53b09c3a" />
+<img width="312" height="107" alt="image" src="https://github.com/user-attachments/assets/9d090a82-9cd0-4f36-8579-375a42bc9fa7" />
 <img width="1470" height="733" alt="image" src="https://github.com/user-attachments/assets/1cf317fb-a91c-439b-9347-aa088d8f64aa" />
 
 
